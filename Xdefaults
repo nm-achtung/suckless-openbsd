@@ -1,6 +1,0 @@
-! $OpenBSD: dot.Xdefaults,v 1.3 2014/07/10 10:22:59 jasper Exp $
-XTerm*Foreground: #f0f0f0
-XTerm*Background: #202020
-XTerm*loginShell:true
-XTerm*ScrollBar: false
-XTerm*font: xft:terminus:size=8
